@@ -1,0 +1,96 @@
+body {
+    background-color: Black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+marquee {
+    color: White;
+    font-family: Algerian;
+    font-size: 55;
+    text-decoration: underline;
+    background-color: Black;
+}
+marquee:hover {
+    color: black;
+    background-color: white;
+}
+.button {
+    border: none;
+    color: white;
+    padding: 8px 30px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: white;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button1 {
+    background-color: Black;
+    color: White;
+    border: 2px solid White;
+    font-family: Agency FB;
+    text-align: center;
+    font-size: 24;
+}
+.button1:hover {
+    background-color: White;
+    color: Black;
+    text-decoration-color: Black;
+    border: 2px solid White;
+}
+th{
+    border:1px solid white;
+    color: white;
+    font-family: Comic Sans MC;
+    font-size: 25;
+    padding: 8px 30px;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+th:hover {
+    color: black;
+    background-color: white;
+    text-decoration-color: black;
+}
+table {
+    border:1px solid white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.English {
+width: 70%;
+display: no;
+}
+.French {
+width: 70%;
+display: none;
+}
+.Spanish {
+width: 70%;
+display: none;
+}
+.German {
+width: 70%;
+display: none;
+}
+.Portuguese {
+width: 70%;
+display: none;
+}
+.Hindi {
+width: 70%;
+display: none;
+}
+.Russian {
+width: 70%;
+display: none;
+}
+.Chinese {
+width: 70%;
+display: none;
+}
